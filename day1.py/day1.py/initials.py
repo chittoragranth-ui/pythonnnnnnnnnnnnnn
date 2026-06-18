@@ -1,0 +1,7 @@
+print("GGGG   CCCCC")
+print("G      C")
+print("G      C")
+print("G GGG  C")
+print("G   G  C")
+print("G   G  C")
+print("GGGG   CCCCC")
